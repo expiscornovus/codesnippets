@@ -1,0 +1,19 @@
+"body": {
+    "content": "This is Flow mention channel test, <at id="\&quot;0\&quot;">SharePoint Site Collections</at>",
+    "contentType": "html"
+  },
+  "mentions": [
+    {
+      "id": 0,
+      "mentionText": "SharePoint Site Collections",
+      "mentioned": {
+                        "conversation": {
+                            "id": "@{variables('Channel')}",
+                            "displayName": "SharePoint Site Collections",
+                            "conversationIdentityType@odata.type": "#Microsoft.Teams.GraphSvc.conversationIdentityType",
+                            "conversationIdentityType": "channel"
+                        }
+      }
+    }
+  ]
+}
