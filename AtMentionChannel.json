@@ -1,5 +1,5 @@
 "body": {
-    "content": "This is Flow mention channel test, <at id="\&quot;0\&quot;">SharePoint Site Collections</at>",
+    "content": "This is Flow mention channel test, <at id=\"0\">SharePoint Site Collections</at>",
     "contentType": "html"
   },
   "mentions": [
